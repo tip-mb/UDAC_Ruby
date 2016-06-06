@@ -36,3 +36,4 @@ allOnline = friends.map do |minVen|
 end
 puts "allOnline"
 puts allOnline
+puts "justering"
